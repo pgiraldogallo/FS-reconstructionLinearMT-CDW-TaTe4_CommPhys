@@ -1,0 +1,10 @@
+# Tick positions used in the original plotting script
+# columns: tick_label k_index_zero_based k_distance
+Gamma 0 0
+X 99 0.0768415
+M 199 0.153683
+Gamma 299 0.262353
+Z 399 0.336051
+R 499 0.412893
+A 599 0.489734
+Z 699 0.598405
