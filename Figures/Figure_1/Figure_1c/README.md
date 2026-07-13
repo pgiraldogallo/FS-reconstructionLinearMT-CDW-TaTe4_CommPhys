@@ -1,5 +1,5 @@
 Non-CDW DFT band dispersion data
-This folder contains simplified text files derived from `P4mcc-bands-soc.dat` for the non-CDW electronic band dispersion.
+This folder contains simplified text files for the non-CDW electronic band dispersion.
 Energy reference
 The energies are already plotted as `E - E_F` in eV. Therefore, the Fermi level in these files is at:
 ```text
