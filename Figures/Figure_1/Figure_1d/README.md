@@ -1,4 +1,5 @@
 CDW-phase DFT band dispersion data
+
 This folder contains band dispersion data to generate the referred figure.
 Energy reference
 The energies are given as `E - E_F` in eV. Therefore, the Fermi level is at:
