@@ -1,3 +1,5 @@
+TYPO: THIS IS Figure 1e
+
 CDW-phase DFT band structure data
 This folder contains the raw data and plotting script used to reproduce the CDW-phase electronic band dispersion.
 Files
