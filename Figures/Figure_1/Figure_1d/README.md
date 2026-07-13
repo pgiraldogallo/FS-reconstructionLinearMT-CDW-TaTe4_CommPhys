@@ -6,12 +6,7 @@ The energies are given as `E - E_F` in eV. Therefore, the Fermi level is at:
 ```text
 E_F = 0 eV
 ```
-Raw-file structure
-The raw `Pncc-bands-nosoc.dat` file is organized as 960 consecutive bands. Each band block contains 140 k-points followed by a separator/blank line. The original plotting script reads each band with:
-```python
-data2[141*j:141*(j+1)-1]
-```
-so `j` is the zero-based band index used in the script.
+
 Files
 `band_001_j000.txt` ... `band_960_j959.txt`: one file per band.
 `all_bands_wide.txt`: one wide table with `k_distance` followed by the energy of all 960 bands.
