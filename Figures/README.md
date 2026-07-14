@@ -1,2 +1,2 @@
 Folder containing data for the figures in the paper. 
-This folder contains one folder per figure (5 folders in total)
+Data for non-oscillatory component of magnetoresistance in figure 5 can be obtained by removing the oscillatory magnetoresistance component from figure 2 folder to the full magnetoresistance, for configuration C.
