@@ -1,1 +1,1 @@
-
+The xlsx files here contain predicted extremal Fermi surface areas in different configurations for the unfolded zone  and folded Brillouin zone (2x2x3), at different shifts from Fermi energy. These correspond to the solid lines overlapped in the colormaps in figures 3 and 4. Use books ended up with 0eV (E=Ef) within these two files to replicate the Fermi surface areas that are shown in these figures.
